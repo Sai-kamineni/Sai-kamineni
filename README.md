@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="terraform" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
@@ -39,6 +39,9 @@
   </a>
   <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
+    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argocd" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
@@ -58,9 +61,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -78,8 +78,5 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Solaris_(operating_system)" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Solaris_Logo.svg/1024px-Solaris_Logo.svg.png" alt="solaris" width="40" height="40"/>
   </a>
 </p>
