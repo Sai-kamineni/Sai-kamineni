@@ -14,7 +14,6 @@
 
 <h3 align="center">I'm a passionate DevOps Engineer with expertise in various automation tools and technologies. With a strong foundation in database administration, I specialize in creating efficient, scalable, and reliable infrastructure for modern applications. I enjoy solving complex challenges with code and automation while fostering collaboration across teams to deliver high-quality software.</h3>
 
-----
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -110,15 +109,14 @@
   </a>
 </p>
 
-------
-
+<!-- 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sai-kamineni&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sai-kamineni&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) --> -->
 
 -----
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,7 +125,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=dark&hide_border=false&layout=compact" />
 </div>
 
----
+--- -->
 
 ## 🐍 GitHub Contribution Snake
 
