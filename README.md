@@ -81,13 +81,28 @@
   </a>
 </p>
 
+------
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sai-kamineni&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sai-kamineni&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+-----
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sai-kamineni&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sai-kamineni&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Sai-kamineni/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+Thanks for visiting!
