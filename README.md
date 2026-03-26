@@ -32,7 +32,7 @@
 - **IaC**: Terraform, Cloudformation  
 - **Containers**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitHub Actions,  
-- **Security & Scanning**: SonarQube, Snyk 
+- **Security & Scanning**: SonarQube, Trivy 
 - **Arifactory**: Nexus, JFrog  
 - **Monitoring**: Prometheus, Grafana, CloudWatch, Datadog 
 ------
