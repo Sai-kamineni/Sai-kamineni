@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Sai Kumar Kamineni
 
 ### IT Analyst II – @ TCS  
-🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform 
+🚀 DevOps | Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kamineni/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@saikumar.dba10)
