@@ -25,16 +25,16 @@
 ---
 
 ### 🧰 Tech Skills & Tools
-- **Cloud**: AWS, Azure, GAIA Cloud  
+- **Cloud**: AWS, Azure
+- **Scripting**: Bash, Shell, Python   
 - **OS**: Linux, Windows
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform. Cloudformation  
-- **Containers**: Docker, Kubernetes 
+- **SCM**: GitHub  
+- **IaC**: Terraform, Cloudformation  
+- **Containers**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions,  
 - **Security & Scanning**: SonarQube, Snyk 
-- **Arifactory**: Nexus, JFrog 
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor 
+- **Arifactory**: Nexus, JFrog  
+- **Monitoring**: Prometheus, Grafana, CloudWatch, Datadog 
 ------
 
 <h3 align="left">Languages and Tools:</h3>
