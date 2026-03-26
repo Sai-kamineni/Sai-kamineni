@@ -22,6 +22,20 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-kamineni" height="30" width="40" />
   </a>
 </p> -->
+---
+
+### 🧰 Tech Skills & Tools
+- **Cloud**: AWS, Azure, GAIA Cloud  
+- **OS**: Linux, Windows
+- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
+- **SCM**: GitHub, Bitbucket  
+- **IaC**: Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube, Snyk 
+- **Arifactory**: Nexus, JFrog 
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor 
+------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
