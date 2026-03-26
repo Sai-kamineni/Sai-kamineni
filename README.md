@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sai kumar kamineni</h1>
-<h3 align="center">I'm a passionate DevOps Engineer with expertise in various automation tools and technologies. With a strong foundation in database administration, I specialize in creating efficient, scalable, and reliable infrastructure for modern applications. I enjoy solving complex challenges with code and automation while fostering collaboration across teams to deliver high-quality software.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Sai kumar kamineni</h1>
+<h3 align="center">I'm a passionate DevOps Engineer with expertise in various automation tools and technologies. With a strong foundation in database administration, I specialize in creating efficient, scalable, and reliable infrastructure for modern applications. I enjoy solving complex challenges with code and automation while fostering collaboration across teams to deliver high-quality software.</h3> -->
+
+<div align="center">
+  <img src="https://github.com/Sai-kamineni/Sai-kamineni/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+</div>
+
+# 👋 Hi, I'm Sai Kumar Kamineni
+
+### IT Analyst II – @ TCS  
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sai-kamineni/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@saikumar.dba10)
+[![Gmail](https://img.shields.io/badge/Email-saikumar.dba10@gmail.com-red?logo=gmail&style=flat)](mailto:saikumar.dba10@gmail.com)
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
