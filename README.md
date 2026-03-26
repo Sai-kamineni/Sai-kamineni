@@ -88,6 +88,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sai-kamineni&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sai-kamineni&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sai-kamineni&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sai-kamineni&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-kamineni&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
