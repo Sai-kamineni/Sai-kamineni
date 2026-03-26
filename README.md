@@ -29,7 +29,7 @@
 - **Scripting**: Bash, Shell, Python   
 - **OS**: Linux, Windows
 - **SCM**: GitHub  
-- **IaC**: Terraform, Cloudformation  
+- **IaC**: Terraform
 - **Containers**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitHub Actions,  
 - **Security & Scanning**: SonarQube, Trivy 
